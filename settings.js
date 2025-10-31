@@ -2,8 +2,8 @@ const settings = {
   packname: 'Castle-Bot',
   author: '‎',
   botName: "Castle-Bot",
-  botOwner: 'Manoj-Raju-Amit', // Your name
-  ownerNumber: '919046630534', //Set your number here without + symbol, just add country code & number without any space
+  botOwner: '𝓜𝓻. 𝓜𝓐𝓝𝓞𝓙', // Your name
+  ownerNumber: '918367723967', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
